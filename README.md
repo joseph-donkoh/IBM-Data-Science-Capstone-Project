@@ -204,14 +204,23 @@ Landing Outcome Prediction
 # **Technologies Used**
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 BeautifulSoup
+
 Folium
+
 Plotly Dash
+
 SQL
 
 ---
@@ -258,13 +267,6 @@ This project demonstrates how data science techniques can be applied to aerospac
 
 By analyzing historical SpaceX launch data, we identified patterns influencing landing success and developed machine learning models capable of predicting Falcon 9 first-stage landing outcomes with high accuracy.
 
----
-
-✅ This version will look **clean and professional on GitHub**.
-
----
-
-If you want, I can also show you **one extremely important section that most students forget in their README but graders love** (it will make your repository look **much more like a professional data science project**).
 
 Conclusion
 
