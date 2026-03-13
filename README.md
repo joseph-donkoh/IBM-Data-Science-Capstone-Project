@@ -8,16 +8,8 @@ SpaceX Falcon 9 Landing Prediction Project
 ![Visualization](https://img.shields.io/badge/Visualization-Seaborn-green)
 ![Project](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue)
 
-Below is a **clean, properly formatted `README.md`** with:
 
-* **Bold headings where appropriate**
-* **Good spacing**
-* **GitHub-friendly Markdown formatting**
-* **Ready to paste directly into GitHub**
 
-Just **copy everything below into your README.md file**.
-
----
 
 # SpaceX Falcon 9 Landing Prediction Project
 
@@ -147,34 +139,10 @@ This geospatial analysis helped understand geographic factors affecting launch o
 
 ---
 
-## **Plotly Dash Dashboard**
 
-An interactive dashboard was built using **Plotly Dash**.
 
-### Dashboard Features
 
-• Launch site dropdown filter
-• Pie chart showing launch success counts
-• Payload mass vs launch outcome scatter plot
-• Payload range slider for interactive filtering
 
-Example dashboard preview:
-
-```
-[Insert dashboard screenshot here]
-```
-
-To run the dashboard locally:
-
-```bash
-python spacex-dash-app.py
-```
-
-Then open:
-
-```
-http://127.0.0.1:8050/
-```
 
 ---
 
