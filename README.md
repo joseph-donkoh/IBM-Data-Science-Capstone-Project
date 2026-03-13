@@ -1,11 +1,13 @@
 # IBM-Data-Science-Capstone-Project
 A capstone project from the IBM Data Science professional certificate on Coursera
 SpaceX Falcon 9 Landing Prediction Project
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Plotly%20Dash-purple)
 ![Visualization](https://img.shields.io/badge/Visualization-Seaborn-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 Project Overview
 
 This project analyzes historical SpaceX Falcon 9 launch data to identify patterns that influence the success of first-stage landings and to build predictive models capable of forecasting landing outcomes.
