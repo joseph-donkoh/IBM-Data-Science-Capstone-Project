@@ -253,3 +253,17 @@ By analyzing historical SpaceX launch data, we identified patterns influencing l
 Conclusion
 
 This project demonstrates how data science techniques can be applied to aerospace datasets to uncover insights and build predictive models. By analyzing historical SpaceX launch data, we identified patterns influencing landing success and developed a machine learning model capable of predicting Falcon 9 first-stage landing outcomes with high accuracy.
+
+#**Acknowledgement**
+
+This project was completed as part of the **IBM Data Science Professional Certificate Capstone Project** on **Coursera**.
+
+**The Jupyter notebooks included in this repository were originally provided within the course as instructional lab templates**. These notebooks contain original course material such as **IBM branding, author credits, copyright notices, markdown guidance, and starter code cells**. They served as guided workbooks for completing the capstone tasks.
+
+The template structure, instructional text, and any starter code originally provided by **IBM remain the intellectual property of IBM and the course authors**.
+The additional code completed within the exercise cells, the executed analyses, the generated outputs, the visualizations, the dashboard work, and the project interpretations were developed as part of my own work while completing the course requirements.
+
+This repository is shared to document my learning process and completed capstone work. **The notebook templates are included here only in the context of my completed coursework and not as a claim of authorship over IBM’s original instructional materials**.
+
+For more information about the program, please visit:
+https://www.coursera.org/professional-certificates/ibm-data-science
