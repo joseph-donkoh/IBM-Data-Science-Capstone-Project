@@ -6,7 +6,7 @@ SpaceX Falcon 9 Landing Prediction Project
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Plotly%20Dash-purple)
 ![Visualization](https://img.shields.io/badge/Visualization-Seaborn-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Project](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue)
 
 Project Overview
 
