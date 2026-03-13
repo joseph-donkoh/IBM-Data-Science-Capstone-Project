@@ -225,30 +225,9 @@ SQL
 
 ---
 
-# **Repository Structure**
 
-```
-SpaceX-Falcon9-Prediction
-│
-├── notebooks
-│   ├── spacex-data-collection-api.ipynb
-│   ├── webscraping.ipynb
-│   ├── data-wrangling.ipynb
-│   ├── eda-visualization.ipynb
-│   ├── eda-sql.ipynb
-│   ├── folium-map.ipynb
-│   ├── machine-learning-prediction.ipynb
-│
-├── dashboard
-│   └── spacex-dash-app.py
-│
-├── data
-│
-├── presentation
-│   └── SpaceX_Capstone_Presentation.pdf
-│
-└── README.md
-```
+
+
 
 ---
 
