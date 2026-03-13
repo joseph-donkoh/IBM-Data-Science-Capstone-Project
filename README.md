@@ -234,8 +234,11 @@ SQL
 # **Key Findings**
 
 • Launch success rates improved significantly over time.
+
 • Payload mass and orbit type influence landing outcomes.
+
 • Launch site characteristics affect mission success.
+
 • Machine learning models can effectively predict Falcon 9 landing success.
 
 ---
